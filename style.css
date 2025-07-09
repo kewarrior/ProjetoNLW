@@ -120,3 +120,21 @@ button:hover {
   transform: translateY(-2px);
   box-shadow: 0 5px 1rem rgba(255, 248, 147, 0.2);
 }
+
+button:disabled {
+  cursor: not-allowed;
+  transition: initial;
+  transform: initial;
+  box-shadow: initial;
+  color: black;
+}
+
+.loading {
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.5;
+  }
+}
