@@ -10,7 +10,7 @@
 
   - Marcacao
   - Tags: <a> Link </a>
-  - Atributos: <a href:"https://github.com/kewarrior">
+  - Atributos: <a href:"https://github.com/kewarrior" >
   - Globais: id, classes, ...
 
 - Language
@@ -87,3 +87,9 @@ A partir disso, o HTML e impactado visualemente.
 - Gemini (IA): esperar uma resposta
 - Mexer no navegador
 - Estrutura de dados
+- Algoritmo: sequencia de passos logica, de maneira ordenada, a fim de chegar a alguma conclusao (limitada)
+- Logica (Pensamento computacional)
+  - Abstracao
+  - Decomposicao
+  - Algoritmo
+  - Reconhecimento de padrao
