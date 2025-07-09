@@ -73,3 +73,17 @@ A partir disso, o HTML e impactado visualemente.
 - declaracao
 - seletor
 - propriedade e valor
+
+# JS
+
+- Linguagem de programacao
+- Browsers
+- Input -> Process -> Output
+- variaveis
+- Function
+  - Agrupamento e reuso de codigo
+  - Sequencia de Logica
+  - Saida
+- Gemini (IA): esperar uma resposta
+- Mexer no navegador
+- Estrutura de dados
